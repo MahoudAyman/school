@@ -1,0 +1,8 @@
+{
+  "name": "Abbasia Institute Educational Platform",
+  "description": "A comprehensive management system for Abbasia Institute students specializing in Accounting, Business Information Systems, and Management, featuring Gemini-powered AI assistance and Supabase integration.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
